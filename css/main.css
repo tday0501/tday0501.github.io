@@ -1718,7 +1718,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-family: "montserrat-medium", sans-serif;
     font-size: 6.3rem;
     line-height: 1.333;
-    margin-top: 0;
+    margin-top: 4rem;
     color: #FFFFFF;
     
 }
@@ -1764,7 +1764,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     list-style: none;
     margin: 0;
     position: absolute;
-    top: 40%;
+    top: 45%;
     right: 5.4rem;
     -webkit-transform: translate3d(0, -50%, 0);
     -ms-transform: translate3d(0, -50%, 0);
