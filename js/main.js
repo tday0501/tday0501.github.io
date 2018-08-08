@@ -63,6 +63,18 @@
         });
     };
 
+    
+    /*name*/
+    
+    var typed = $(".typed");
+
+  $(function() {
+    typed.typed({
+      strings: ["father, John Kammerer.", "a leader.", "an innovator.", "an entrepreneur.", "many things..."],
+      typeSpeed: 100,
+      loop: true,
+    });
+  });
 
    /* OffCanvas Menu
     * ------------------------------------------------------ */

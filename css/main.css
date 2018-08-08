@@ -74,7 +74,7 @@ html, body {
 }
 
 body {
-    background-image: url("../images/lights_bg.jpg");
+    background-image: url("");
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: "lora-regular", serif;
@@ -1678,6 +1678,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: relative;
     overflow: hidden;
 }
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
 
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
